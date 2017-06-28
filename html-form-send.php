@@ -1,5 +1,5 @@
 <?php
-if(isset($_GET['email'])) {
+if(isset($_POST['email'])) {
      
     // CHANGE THE TWO LINES BELOW
     $email_to = "cindy@juniperbooks.com";
@@ -14,14 +14,14 @@ if(isset($_GET['email'])) {
     }
      
     // validation expected data exists
-    if(!isset($_GET['first_name']) ||
-        !isset($_GET['last_name']) ||
-        !isset($_GET['email']) ||
-        !isset($_GET['guest_names']) ||
-        !isset($_GET['allergies'])) ||
-        !isset($_GET['booze'])) ||
-        !isset($_GET['photo'])) ||
-        !isset($_GET['terms'])) {
+    if(!isset($_POST['first_name']) ||
+        !isset($_POST['last_name']) ||
+        !isset($_POST['email']) ||
+        !isset($_POST['guest_names']) ||
+        !isset($_POST['allergies'])) ||
+        !isset($_POST['booze'])) ||
+        !isset($_POST['photo'])) ||
+        !isset($_POST['terms'])) {
         died('We are sorry, but there appears to be a problem with the form you submitted.');       
     }
      
