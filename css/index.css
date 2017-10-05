@@ -40,7 +40,7 @@ img {
     background: #FFFFFF;
 	color: #545454;
 	font-family: 'Roboto Condensed', sans-serif;
-    font-size: 14px;
+    font-size: 13px;
     text-align: center;
     line-height: 22px;
 }
@@ -70,7 +70,7 @@ nav a {
 	text-decoration: none;
     padding-left: 15px;
     padding-right: 15px;
-    font-size: 16px;
+    font-size: 15px;
     text-transform: uppercase;
 }
 
