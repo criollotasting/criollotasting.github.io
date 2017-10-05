@@ -141,13 +141,3 @@ footer {
     padding-top: 200px;
     text-align: center;
 }
-
-@media (min-width: 481px) and (max-width: 767px) {
-    
-    .container {
-	margin: 0 auto;	
-    font-size: 18px;
-    line-height: 22px;
-}
-    
-}
