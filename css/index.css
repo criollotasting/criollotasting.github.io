@@ -70,7 +70,7 @@ nav a {
 	text-decoration: none;
     padding-left: 15px;
     padding-right: 15px;
-    font-size: 15px;
+    font-size: 20px;
     text-transform: uppercase;
 }
 
@@ -89,7 +89,7 @@ a {
 
 h2 {
     font-weight: 100;
-    padding-bottom: 30px;
+    padding-bottom: 34px;
     text-transform: uppercase;
 	letter-spacing: 10px;
 }
