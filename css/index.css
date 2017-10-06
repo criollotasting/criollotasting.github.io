@@ -94,6 +94,11 @@ h2 {
 	letter-spacing: 10px;
 }
 
+h3 {
+	text-transform: uppercase;
+	font-weight: 400;
+}
+
 .line {
     display: inline-block;
     position: relative;
