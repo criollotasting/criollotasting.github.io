@@ -93,11 +93,13 @@ h2 {
     padding-bottom: 34px;
     text-transform: uppercase;
 	letter-spacing: 10px;
+	font-size: 20px;
 }
 
 h3 {
 	text-transform: uppercase;
 	font-weight: 600;
+	font-size: 16px;
 }
 
 .line {
