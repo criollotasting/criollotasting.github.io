@@ -138,6 +138,7 @@ h3 {
     color: #545454;
 	border-style: solid;
     border-color: #545454;
+	margin-top: 6px;
 }
 .scrollToTop:hover{
 	text-decoration:none;
