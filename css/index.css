@@ -93,6 +93,7 @@ h2 {
     text-transform: uppercase;
 	letter-spacing: 10px;
 	font-size: 24px;
+	font-weight: 100;
 }
 
 h3 {
@@ -135,7 +136,8 @@ h3 {
 	display:none;
     background: #ffffff;
     color: #545454;
-	border: #545454 1px;
+	border-style: solid;
+    border-color: #545454;
 }
 .scrollToTop:hover{
 	text-decoration:none;
