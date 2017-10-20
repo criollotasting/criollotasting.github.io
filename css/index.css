@@ -39,11 +39,11 @@ img {
 .home {
     background: #FFFFFF;
 	color: #545454;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Cormorant Garamond', serif;
     font-size: 13px;
     text-align: center;
     line-height: 22px;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 .padding {
@@ -59,6 +59,7 @@ header {
 }
 
 nav {
+	font-family: 'Roboto', sans-serif;
     text-align: center;
     position: fixed;
     top: 0;
@@ -147,6 +148,7 @@ h3 {
 }
 
 footer {
+	font-family: 'Roboto', sans-serif;
     position: relative;
     background: rgba(255,255,255,0);
     width: 100%;
