@@ -100,7 +100,8 @@ h2 {
 }
 
 h3 {
-	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 10px;
 	font-size: 13px;
 	font-weight: 700i;
 	
