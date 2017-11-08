@@ -107,6 +107,18 @@ h3 {
 	
 }
 
+.about {
+    width: 50%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
 .line {
     display: inline-block;
     position: relative;
