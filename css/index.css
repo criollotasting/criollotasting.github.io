@@ -109,7 +109,8 @@ h3 {
 
 .about {
     width: 50%;
-	font-size: 30px;
+	font-size: 20px;
+	line-height: 20px;
 }
 
 .left {
